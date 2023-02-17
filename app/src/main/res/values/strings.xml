@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuestionQuiz</string>
+    <string name="titreApp">QuestionQuiz !</string>
+    <string name="joueur1">Joueur 1</string>
+    <string name="joueur2">Joueur 2</string>
+    <string name="txtBouton">Jouer ! </string>
+    <string name="score1">0</string>
+    <string name="question1">Question Joueur 1</string>
+    <string name="score2">0</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="stop">STOP</string>
+    <string name="question2">Question Joueur 2</string>
+    <string name="scoreAjout">Vrai </string>
+    <string name="scoreMoins">Faux</string>
+    <string name="title_activity_ecran2">Ecran2</string>
+    <string name="timer">0</string>
+    <string name="question_quiz">Question Quiz</string>
+    <string name="cr_er_par_nika_stanic">Créer par Nika Stanic</string>
+    <string name="atelier_android_question_quiz">Atelier Android</string>
+    <string name="mis_jour">Mis à jour : 17.02.23</string>
+    <string name="question_quiz_txt">Question Quiz</string>
+
+</resources>
