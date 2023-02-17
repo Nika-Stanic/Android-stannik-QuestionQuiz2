@@ -70,7 +70,6 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.settings:
 
-
         }
         return super.onOptionsItemSelected(item);
     }
